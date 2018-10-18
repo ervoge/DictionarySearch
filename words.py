@@ -1,7 +1,7 @@
 import sys
 import string
 from collections import deque
-# Author: Prof. Fitzsimmons
+# Author: Emily Vogelsperger
 # Date: Fall 2018
 # Filename: words.py
 #
