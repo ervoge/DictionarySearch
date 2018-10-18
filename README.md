@@ -5,7 +5,7 @@ A search algorithm to find the shortest path of words from a given start word to
 ## Input 
 A dictionary of English words a text file, a start word, and a goal word.
 
-## Usage: 
+## Usage 
 ```
 python3 words.py dictionaryFile startWord endWord
 ```
